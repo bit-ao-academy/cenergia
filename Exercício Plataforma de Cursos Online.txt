@@ -1,0 +1,6 @@
+Exercício 2: Plataforma de Cursos Online
+
+estudantes(nome, email, data de nascimento)
+estudantes nos cursos(data de inscrição, nota final (estudantes, cursos) )
+cursos(nome do curso, duração)
+
